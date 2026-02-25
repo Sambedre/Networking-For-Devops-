@@ -61,7 +61,6 @@ If server is not reachable:
 - Check port open → Transport Layer
 - Check application running → Application Layer
 
-Interview-Ready Explanation
 
 What is TCP/IP Model?
 
